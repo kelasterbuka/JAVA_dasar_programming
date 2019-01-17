@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df2dbe9a-ba2b-4e71-af58-ced60ca74f12" name="Default Changelist" comment="">
+    <list default="true" id="2e339cb9-1fdc-45dc-ba2a-5a14c2422ed0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../34-fungsi atau method (pengenalan)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../34-fungsi atau method (pengenalan)/src/com/tutorial/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../35-fungsi void tanpa return/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../35-fungsi void tanpa return/src/com/tutorial/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorial/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
@@ -9,6 +15,7 @@
       <change afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/src/com/tutorial/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33-Looping Bersarang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../33-Looping Bersarang/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,44 +25,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1970638485">
+    <session id="538024610">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="305" />
+          <entry key="java" value="1199" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="305" />
+          <entry key="JAVA" value="1199" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/tutorial/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+            <state relative-caret-position="261">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -80,6 +86,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-319" />
     <option name="y" value="-1080" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
@@ -90,29 +97,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="33-Looping Bersarang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="33-Looping Bersarang" type="462c0819:PsiDirectoryNode" />
+              <item name="36-latihan fungsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="36-latihan fungsi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="33-Looping Bersarang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="33-Looping Bersarang" type="462c0819:PsiDirectoryNode" />
+              <item name="36-latihan fungsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="36-latihan fungsi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543279948119" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547718397934" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
@@ -130,7 +137,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tutorial.Main" />
-      <module name="33-Looping Bersarang" />
+      <module name="36-latihan fungsi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tutorial.*" />
@@ -152,28 +159,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="df2dbe9a-ba2b-4e71-af58-ced60ca74f12" name="Default Changelist" comment="" />
-      <created>1543279158866</created>
+      <changelist id="2e339cb9-1fdc-45dc-ba2a-5a14c2422ed0" name="Default Changelist" comment="" />
+      <created>1547716455552</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543279158866</updated>
+      <updated>1547716455552</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1080" width="1920" height="1080" extended-state="0" />
+    <frame x="-319" y="-1080" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12193823" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.104898825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32970297" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
@@ -188,7 +195,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.45420662" />
+      <window_info anchor="right" id="Run" order="8" weight="0.17784877" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -197,8 +204,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/tutorial/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        <state relative-caret-position="261">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="31" />
         </state>
       </provider>
     </entry>
