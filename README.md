@@ -1,4 +1,4 @@
-# Kelas Terbuka - Java
+# Kelas Terbuka - Java Basic
 JAVA_dasar_programming [Youtube Playlist](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F)
 
 1. Apa itu Java [Youtube](https://www.youtube.com/watch?v=uHyfQV0kbgo&list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F&index=1)
