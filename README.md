@@ -81,3 +81,18 @@ JAVA_dasar_programming [Youtube Playlist](https://www.youtube.com/playlist?list=
 66. Access Modifier and Multi File [Youtube](https://www.youtube.com/watch?v=GSQyfc1HkKM&list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F&index=74) | [Github](/66-Access%20Modifier%20dan%20Multi-File/)
 67. Projek CRUD - Finalisasi [Youtube](https://www.youtube.com/watch?v=tnzKlYoke1U&list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F&index=75) | [Github](/67-Project%20CRUD%20-%20Finalisasi/)
 68. Final [Youtube](https://www.youtube.com/watch?v=b8MCl3fXEFg&list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F&index=76) 
+
+# Follow kami di:
+- [Discord](https://discord.gg/yRxz2pJgbq)
+- [Instagram](https://www.instagram.com/kelasterbuka)
+- [Twitter](https://www.twitter.com/kelasterbuka_id)
+- [Facebook](https://www.facebook.com/KelasTerbukaIndonesia)
+- [Github](https://github.com/kelasterbuka)
+
+Donasi:
+https://saweria.co/kelasterbuka
+
+> Kelas Terbuka adalah channel belajar programming / pemrograman / ngoding / koding berbahasa indonesia. Channel ini membahas teknik pemrograman secara umum beserta teknologi terkait dan teknik komputasi serta pengolahan data. 
+Pendekatan yang dilakukan pada kelas terbuka adalah:
+brief, friendly dan fun. 
+Dengan demikian, channel ini diharapkan dapat mengisi kekosongan implementasi praktis pada materi pendidikan formal di Indonesia.
