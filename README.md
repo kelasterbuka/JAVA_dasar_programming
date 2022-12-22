@@ -1,3 +1,13 @@
+<p align="center">
+    <!-- badge koding assembly-->
+    <img alt="Banner Kelas Terbuka" src="https://scontent.fcgk30-1.fna.fbcdn.net/v/t39.30808-6/305486824_503874338409832_3511024540548735560_n.png?stp=dst-png_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeG_sYHvhUlbaLzuCNT1LVbHuyoteMfhcUW7Ki14x-FxRYuuNoJQM99wap4w2l316S6nHzyS5t13GMDj7Wt1yAVV&_nc_ohc=znA1t4fsIkEAX_jbW73&tn=RLfXKIkQkFvD4ql_&_nc_ht=scontent.fcgk30-1.fna&oh=00_AfBhQZFmbtNntUYvARVb--K-YKudwthc4lec5mS2dZYCkQ&oe=63AA101D"><br>
+<!--     <img alt="banner koding" src="src/cover.png"> -->
+    <!-- badge discord-->
+    <a href="https://discord.gg/yRxz2pJgbq"><img alt="Badge Discord" src="https://img.shields.io/discord/722002048643497994?color=blue&label=discord&logo=discord&logoColor=white&style=for-the-badge">
+    <!-- baddge sponsor-->
+    <a href="https://saweria.co/kelasterbuka"><img alt="Badge Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
+</p>
+
 # Kelas Terbuka - Java Basic
 JAVA_dasar_programming [Youtube Playlist](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F)
 
